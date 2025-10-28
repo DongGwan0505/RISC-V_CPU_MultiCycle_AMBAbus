@@ -3,7 +3,7 @@
 **Author:** 이동관  
 **Language:** SystemVerilog  
 **Tool:** Vivado / QuestaSim / Verilator  
-**Board:** (예시) Basys3 (100 MHz)
+**Board:** Basys3 (100 MHz)
 
 ---
 
@@ -34,6 +34,7 @@ Includes **self-checking UART loopback testbenches** and **firmware examples**.
 - **MCU Top Demo**
   - Displays the transmitted UART byte on LEDs (`gpo <= uart_tx_byte_dbg`)
   - ROM initialized from `code.mem`
+<img width="1724" height="1216" alt="image" src="https://github.com/user-attachments/assets/9a9f77a7-127a-4004-9c7d-ab87f6a8a41e" />
 
 ---
 
